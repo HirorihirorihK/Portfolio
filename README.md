@@ -9,7 +9,7 @@
 
 ・DB Browser for SQLite 3.32.2
 
-# version
+# python version
 
 ・Python	3.8.13
 
