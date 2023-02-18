@@ -36,6 +36,10 @@
 
 ・tensorflow	2.3.0
 
+# 実行する際に
+
+ファイルを実行する際は、フォルダを作成しipynbファイル4つと2023_baseball.xlsxを同じフォルダに入れて、実行してください
+
 # 実行ファイル 1
  
 **01_Complete_pitcher_league_2023.ipynb**
