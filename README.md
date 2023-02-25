@@ -30,11 +30,15 @@
 
 ・beautifulsoup4	4.11.1
 
-・urllib3		1.26.12
+・urllib3	1.26.12
 
 ・keras	2.4.3 
 
 ・tensorflow	2.3.0
+
+・openpyxl 3.0.10
+
+・xlrd 2.0.1
 
 # 実行する際に
 
