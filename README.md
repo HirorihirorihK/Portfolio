@@ -12,7 +12,9 @@
 
 # 使用ソフト
 
-・Anaconda Navigator 2.3.1
+・Anaconda Navigator 2.3.1 (anaconda3)
+
+・Visual Studio Code 1.65.0 
 
 ・Python　
 
@@ -20,7 +22,7 @@
 
 ・DB Browser for SQLite 3.32.2
 
-# python version
+# Python version
 
 ・Python	3.8.13　　　
 
