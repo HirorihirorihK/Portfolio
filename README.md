@@ -12,6 +12,8 @@
 
 # 使用ソフト
 
+・Anaconda Navigator 2.3.1
+
 ・Python　
 
 ・EXCEL MICROSOFT365　
